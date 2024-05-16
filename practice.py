@@ -1,3 +1,4 @@
+### with help to see how to do extended challenge
 # Student information
 students = [
     {"name": "Sammy", "hometown": "Denver", "favorite_food": "Sushi"},
